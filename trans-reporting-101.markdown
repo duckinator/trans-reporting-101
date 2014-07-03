@@ -10,7 +10,11 @@ Organized and turned into a PDF by [@duckinator](https://twitter.com/duckinator)
 * Do not ask trans people about their genitals.
 * Always use the correct pronouns, even when referring to someone's pre-transition self.
     * "Correct pronouns" means the pronouns _they_ consider correct _currently_, regardless of anyone else's thoughts or pronouns they may have used previously.
-* If you do not know which pronouns should be used when when referring to somebody, use [singular they](http://en.wikipedia.org/wiki/Singular_they) (this is _not_ specific to trans people). Do not try to guess somebody's pronouns.
+    * Do not, under any circumstances, mock someone's pronouns.
+    * Do not, under any circumstances, claim someone has chosen the "wrong" pronouns for themselves.
+    * There _are_ pronouns besides the more well-known he/him, she/her, and they/them/their. Use them when appropriate.
+        * These include, but are not limited to ze/hir, xie/xir, and ey/em/eir.
+    * If the correct pronouns for a given person are not known, use [singular they](http://en.wikipedia.org/wiki/Singular_they). Do not try to guess their pronouns.
 * Focus your questions on how to improve trans people's lives, not on satisfying cis people's nosiness.
 * "Trans"/"transgender" is an adjective, not a prefix.
     * This means you should use "trans woman" and "trans man", not "transwoman" and "transman."
