@@ -12,7 +12,7 @@ Organized and turned into a PDF by [@duckinator](https://twitter.com/duckinator)
     * "Correct pronouns" means the pronouns _they_ consider correct _currently_, regardless of anyone else's thoughts or pronouns they may have used previously.
     * Do not, under any circumstances, mock someone's pronouns.
     * Do not, under any circumstances, claim someone has chosen the "wrong" pronouns for themselves.
-    * There _are_ pronouns besides the more well-known he/him, she/her, and they/them/their. Use them when appropriate.
+    * There _are_ pronouns besides the more well-known he/him, she/her, and they/them/their. Use them if they are the correct pronouns for the person you are referring to.
         * These include, but are not limited to ze/hir, xie/xir, and ey/em/eir.
     * If the correct pronouns for a given person are not known, use [singular they](http://en.wikipedia.org/wiki/Singular_they). Do not try to guess their pronouns.
 * Focus your questions on how to improve trans people's lives, not on satisfying cis people's nosiness.
